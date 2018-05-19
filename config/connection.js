@@ -5,10 +5,10 @@ var connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
 
-  // Your username
+  // My username
   user: "root",
 
-  // Your password
+  // My password
   password: "1q2w3e4r",
   database: "burgers_db"
 });
