@@ -10,7 +10,8 @@ Each burger in the waiting area also has a "Devour it" button. When the user cli
 
 My app stores every burger in a database, whether devoured or not. 
 
-See below the video of the app:
+See the video of the app:
+[Burger app clip](Burger_app.mov)
 
 
 
